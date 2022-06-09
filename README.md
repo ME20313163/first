@@ -1,4 +1,5 @@
-int a=90;
-int b=60;
-int c=a+b;
-print(c);
+welcome to github
+
+
+my name is deepika
+
